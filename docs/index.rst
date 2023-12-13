@@ -69,12 +69,8 @@ Topics
    Courses/NNets
    Courses/ineqlab
    Courses/evolve
-
-
-..
    Courses/mathappendix
    Courses/programming
-..
 
 .. toctree::
    :maxdepth: 2
