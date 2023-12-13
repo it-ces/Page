@@ -1,6 +1,5 @@
 sphinx
 scikit-learn	
-xlrd
 sphinx_rtd_theme
 sphinx-math-dollar	
 myst-parser
